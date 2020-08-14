@@ -2,7 +2,7 @@
 
 ## Description
 
-The solution can be found in the ipynb with all the explanations and results.
+The solution can be found in the jupyter notebook with all the explanations and results.
 
 ## How to run
 1. Create an anaconda or a virtualenv environment (or any environment container like service)
