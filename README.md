@@ -11,3 +11,9 @@ The solution can be found in the ipynb with all the explanations and results.
 4. pip install -r requirements.txt
 5. Start the notebook (jupyter notebook / jupyter lab)
 6. Run all cells to achieve similar result as shown in the output cells
+
+## Environment
+
+Cuda version 11.0.2-1
+
+Cudnn version 8.0.0.180-2
